@@ -400,3 +400,4 @@ AuthPolicy.prototype = (function() {
   };
 
 })();
+
